@@ -1,6 +1,10 @@
-### Hi there! This is Bhagyalaxmi 👋
+# Hi there! I'm Bhagyalaxmi 👋
 
-![Hi! I'm Bhagyalaxmi](https://user-images.githubusercontent.com/80905783/210173261-7d6b8d33-86b8-481d-9cc6-8d6084c66388.png)
+![Untitled design](https://user-images.githubusercontent.com/80905783/210173491-164ac789-c245-463f-92dc-b8808079050b.png)
+
+
+### I am a student of Computer Science and Engineering 3rd year and pursuing a degree of B.Sc Data Science and Programming from IIT Madras.
+
 
 - 🔭 I’m currently working on stock market data analysis and predictor.
 - 🌱 I’m currently learning recurrent neural networks!
