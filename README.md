@@ -8,5 +8,6 @@
 
 - 🔭 I’m currently working on stock market data analysis and predictor.
 - 🌱 I’m currently learning recurrent neural networks!
+- 💻 check out my blog: https://medium.com/@defbhagya
 - 📫 How to reach me: drop a hi! 👋 https://www.linkedin.com/in/bhagyalaxmi-allel/
 - 😄 Pronouns: she/her
