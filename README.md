@@ -1,14 +1,6 @@
 ![Colorful Watercolor Twitter Header](https://user-images.githubusercontent.com/80905783/220296759-cd66c755-aeae-4a05-a8d1-c3f1d17b6713.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=allelbhagya&label=Profile%20views&color=0e75b6&style=flat" alt="allelbhagya" /> </p>
-
-<p align="left"> <a href="https://twitter.com/allelbhagya" target="blank"><img src="https://img.shields.io/twitter/follow/allelbhagya?logo=twitter&style=for-the-badge" alt="allelbhagya" /></a> </p>
-
-- 🔭 I’m currently working on **2048 game**
-
-- 🌱 I’m currently learning **deep learning.**
-
-- 💬 Ask me about **tensorflow and opencv.**
+- 🌱 I’m currently learning **deep learning:** https://github.com/allelbhagya/deeplearning-intro
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
