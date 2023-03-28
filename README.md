@@ -1,4 +1,4 @@
-## hello there 👋
+## hello 👋
 
 [linkedin](https://www.linkedin.com/in/allelbhagya/) | 
 [twitter](https://twitter.com/allelbhagya) | 
