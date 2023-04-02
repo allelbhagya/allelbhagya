@@ -2,7 +2,7 @@
 
 [linkedin](https://www.linkedin.com/in/allelbhagya/) | 
 [twitter](https://twitter.com/allelbhagya) | 
-[hashnode](https://allelbhagya.hashnode.dev/) | 
+[tech blog](https://bhagyalaxmi.notion.site/bhagya-py-b8df2d8d42b8444aaf156c6a947c85d2) | 
 [leetcode](https://leetcode.com/allelbhagya/)
 
 ```python
