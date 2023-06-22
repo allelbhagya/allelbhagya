@@ -14,7 +14,7 @@ class Bhagyalaxmi:
 
     def __init__(self):
         self.name = "A Bhagyalaxmi"
-        self.role = "Intern at Microsoft"
+        self.role = " Former Intern at Microsoft"
         self.interests = ["Deep learning", "Image Processing"]
         self.language_spoken = ["en_IN", "hi_IN"]
 
