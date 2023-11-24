@@ -1,7 +1,6 @@
 ## hello 👋
 
-[linkedin](https://www.linkedin.com/in/allelbhagya/) | 
-[twitter](https://twitter.com/allelbhagya) | 
+[linkedin](https://www.linkedin.com/in/allelbhagya/)| 
 [leetcode](https://leetcode.com/allelbhagya/)
 
 ```python
