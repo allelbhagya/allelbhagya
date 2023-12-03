@@ -1,7 +1,7 @@
 ## hello 👋
 
 [linkedin](https://www.linkedin.com/in/allelbhagya/) | 
-[leetcode](https://leetcode.com/allelbhagya/)
+[ml writings](https://bhagyalaxmi.notion.site/bhagyalaxmi/machine-learning-05fa08b538c34518b0610c202794351d)
 
 ```python
 #!/usr/bin/python
