@@ -12,7 +12,7 @@ class Bhagyalaxmi:
 
     def __init__(self):
         self.name = "A Bhagyalaxmi"
-        self.role = " Former Intern at Microsoft"
+        self.email = "allel.bhagya@gmail.com"
         self.interests = ["Machine learning", "Front-end Development"]
         self.language_spoken = ["en_IN", "hi_IN"]
 
