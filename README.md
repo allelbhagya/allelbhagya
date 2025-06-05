@@ -1,7 +1,7 @@
 ## hello 👋
 
 [linkedin](https://www.linkedin.com/in/allelbhagya/) | 
-[ml](https://heybhagya.notion.site/machine-learning-05fa08b538c34518b0610c202794351d?pvs=74)
+[ml writings](https://medium.com/@heybhagya)
 
 ```python
 #!/usr/bin/python
