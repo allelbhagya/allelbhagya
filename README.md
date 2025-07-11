@@ -11,14 +11,13 @@
 class Bhagyalaxmi:
 
     def __init__(self):
-        self.name = "A Bhagyalaxmi"
-        self.email = "allel.bhagya@gmail.com"
-        self.interests = ["Machine learning", "Front-end Development"]
+        self.name = "Bhagyalaxmi"
+        self.interests = ["Machine learning", "Natural Language Processing"]
         self.language_spoken = ["en_IN", "hi_IN"]
 
 
     def say_hi(self):
-        print("Thanks for dropping by :) hope you find my work interesting!")
+        print("Thanks for dropping by :)")
 
 
 me = Bhagyalaxmi()
